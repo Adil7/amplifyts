@@ -1,0 +1,5 @@
+type Preferences @model {
+  id: ID!
+  buyer_type: String!
+  budget: Int!
+}
